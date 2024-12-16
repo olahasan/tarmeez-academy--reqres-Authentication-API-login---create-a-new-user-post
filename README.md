@@ -9,6 +9,7 @@ in this project i tried to apply login request and store the token in localStora
 
 - [Overview](#overview)
 - [Installation](#Installation)
+- [Uage](#Uage)
 - [Links](#Links)
 - [Screenshot](#Screenshot)
 - [What I learned](#what-i-learned)
@@ -31,6 +32,12 @@ you can clone the project or download it as Zip file.
    ```bash
    git clone https://github.com/olahasan/tarmeez-academy--reqres-Authentication-API-login---create-a-new-user-post.git
 ```
+
+## Uage
+1. **Clone the Project**: Users can clone the repository using the provided command.
+2. **Install Dependencies**: Running `npm install` will install Axios and any other dependencies specified in your `package.json`.
+3. **Run the Project**: They can start the project with `npm start` and access it in their browser.
+
 
 ## Links
 
